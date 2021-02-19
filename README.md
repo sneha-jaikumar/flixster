@@ -20,11 +20,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-![](https://imgflip.com/gif/4ym81t.gif)
-
-![](https://i.imgur.com/FFJiKoF.gif)
+![](https://i.imgur.com/nO74BLg.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
+Challenges encountered include understanding what the MovieViewController corresponded to and downloading CocoaPods to view the movie posters.
