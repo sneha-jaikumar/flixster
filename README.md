@@ -15,8 +15,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-![](https://i.imgur.com/0UuhdhR.gif)
+![](https://i.imgur.com/3GO8WCe.gif)
 
 ### Notes
 Challenges encountered include modifying the posterView outlet from type UIView to UIImageView and changing the colors of the icons in the tab bar to blue.
