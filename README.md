@@ -40,6 +40,6 @@ Describe any challenges encountered while building the app.
 ### App Walkthrough GIF
 
 ![](https://i.imgur.com/nO74BLg.gif)
-
+![](https://i.imgur.com/l5pfvt3.gif)
 ### Notes
 Challenges encountered include understanding what the MovieViewController corresponded to and downloading CocoaPods to view the movie posters.
